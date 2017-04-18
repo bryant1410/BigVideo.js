@@ -1,8 +1,8 @@
 # BigVideo.js
-####The jQuery Plugin for Big Background Video (and Images)
+#### The jQuery Plugin for Big Background Video (and Images)
 Learn how to use this plugin on its demo page at <http://dfcb.github.com/BigVideo.js>.
 
-##12-30-2015 Update
+## 12-30-2015 Update
 This project is no longer under active development. Much has changed since the summer of 2012 when BigVideo.js was launched. For more current information on implementing video backgrounds, check out these links:
 
 - CSS Tricks - [Should I use a video as a background?](https://css-tricks.com/should-i-use-a-video-as-a-background/)
